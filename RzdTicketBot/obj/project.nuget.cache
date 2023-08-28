@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DTkFZDMk67MhGaaQnnFkzQYcxcYfc7bp9NUOG0kFWWkLWxsbTMZ0k9LheW6KBiy0RA9TRxA/GuoPGLl3RQWshA==",
+  "dgSpecHash": "QKJM0XatPuybIWmgAsIDiq3J/6mQaXkP1pC0dseEQ+zD+LdfRx4HP3AnnPFJyf0xZ253UPRc0gD3ITe8/QkPFQ==",
   "success": true,
-  "projectFilePath": "/Users/macbook/Documents/ConsoleApp2/ConsoleApp3/RzdTicketBot/RzdTicketBot.csproj",
+  "projectFilePath": "/Users/macbook/RiderProjects/TicketsBot/RzdTicketBot/RzdTicketBot.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Documents/ConsoleApp2/ConsoleApp3/RzdTicketBot/RzdTicketBot.csproj": {}
+    "/Users/macbook/RiderProjects/TicketsBot/RzdTicketBot/RzdTicketBot.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Documents/ConsoleApp2/ConsoleApp3/RzdTicketBot/RzdTicketBot.csproj": {
+    "/Users/macbook/RiderProjects/TicketsBot/RzdTicketBot/RzdTicketBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Documents/ConsoleApp2/ConsoleApp3/RzdTicketBot/RzdTicketBot.csproj",
+        "projectUniqueName": "/Users/macbook/RiderProjects/TicketsBot/RzdTicketBot/RzdTicketBot.csproj",
         "projectName": "RzdTicketBot",
-        "projectPath": "/Users/macbook/Documents/ConsoleApp2/ConsoleApp3/RzdTicketBot/RzdTicketBot.csproj",
+        "projectPath": "/Users/macbook/RiderProjects/TicketsBot/RzdTicketBot/RzdTicketBot.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Documents/ConsoleApp2/ConsoleApp3/RzdTicketBot/obj/",
+        "outputPath": "/Users/macbook/RiderProjects/TicketsBot/RzdTicketBot/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
