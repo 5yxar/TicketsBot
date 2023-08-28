@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{87F9B1A5-3982-4F00-AE98-A086154B783F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RzdTicketBot", "RzdTicketBot\RzdTicketBot.csproj", "{87F9B1A5-3982-4F00-AE98-A086154B783F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
